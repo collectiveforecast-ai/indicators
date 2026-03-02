@@ -23,6 +23,14 @@
   ],
   "author": "Collective Forecast",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collectiveforecast-ai/indicators.git"
+  },
+  "homepage": "https://github.com/collectiveforecast-ai/indicators#readme",
+  "bugs": {
+    "url": "https://github.com/collectiveforecast-ai/indicators/issues"
+  },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
     "@types/jest": "^29.5.14",
