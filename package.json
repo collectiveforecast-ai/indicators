@@ -1,5 +1,5 @@
 {
-  "name": "cofo-indicators",
+  "name": "@collective-forecast/indicators",
   "version": "1.0.0",
   "description": "A TypeScript library for technical indicators, OHLCV data handling, and number formatting utilities.",
   "main": "dist/index.js",
@@ -25,11 +25,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/collectiveforecast-ai/indicators.git"
+    "url": "git+https://github.com/collectiveforecast/indicators.git"
   },
-  "homepage": "https://github.com/collectiveforecast-ai/indicators#readme",
+  "homepage": "https://github.com/collectiveforecast/indicators#readme",
   "bugs": {
-    "url": "https://github.com/collectiveforecast-ai/indicators/issues"
+    "url": "https://github.com/collectiveforecast/indicators/issues"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
